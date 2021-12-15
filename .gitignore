@@ -1,10 +1,7 @@
 /node_modules
 /build
-
 dev.js
-
-
-
+/uploads
 .DS_Store
 
 npm-debug.log*

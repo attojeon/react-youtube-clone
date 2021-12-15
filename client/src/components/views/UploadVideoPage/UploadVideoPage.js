@@ -117,7 +117,7 @@ function UploadVideoPage(props) {
                                 alert('Failed to make the thumbnails');
                             }
                         })
-
+                    alert('Success to make the thumbnails');
 
                 } else {
                     alert('failed to save the video in server')
